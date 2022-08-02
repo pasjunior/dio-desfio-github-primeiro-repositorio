@@ -3,3 +3,5 @@
 git add . ou git add * 
 git commit - "mensagem do commit"
 git pull
+git status
+git push origin master
